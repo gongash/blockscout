@@ -11,6 +11,7 @@
 - [#2663](https://github.com/poanetwork/blockscout/pull/2663) - Fetch address counters in parallel
 
 ### Fixes
+- [#2731](https://github.com/poanetwork/blockscout/pull/2731) - fix library verification
 - [#2718](https://github.com/poanetwork/blockscout/pull/2718) - Include all addresses taking part in transactions in wallets' addresses counter
 - [#2709](https://github.com/poanetwork/blockscout/pull/2709) - Fix stuck label and value for uncle block height
 - [#2707](https://github.com/poanetwork/blockscout/pull/2707) - fix for dashboard banner chart legend items
@@ -30,6 +31,8 @@
 ### Chore
 - [#2724](https://github.com/poanetwork/blockscout/pull/2724) - fix ci by commenting a line in hackney library
 - [#2708](https://github.com/poanetwork/blockscout/pull/2708) - add log index to logs view
+
+- [#2723](https://github.com/poanetwork/blockscout/pull/2723) - get rid of ex_json_schema warnings
 
 
 ## 2.0.4-beta
